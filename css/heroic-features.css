@@ -1,0 +1,58 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.card {
+  height: 100%;
+}
+
+.feature-img
+{
+  padding-left: 0px;  
+  padding-right: 0px;
+}
+
+.spacer
+{
+  min-height: 3vh;
+  height:3vh;
+  max-height: 3vh;
+}
+
+.table-borderless td,
+.table-borderless th {
+    border: 0;
+}
+
+.line-seperator
+{
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+
+.btn-round
+{
+  border-radius: 20px;
+}
+
+.font-autowide
+{
+  font-family: 'Audiowide', cursive;
+}
+
+.font-racing-sans-one
+{
+  font-family: 'Racing Sans One', cursive;
+}
